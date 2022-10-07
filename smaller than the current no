@@ -1,0 +1,7 @@
+l1=[]
+num=[]
+ele=int(input("Enter the total no. of values: "))
+print("Enter the value: ")
+for i in range(0,ele):
+    val=int(input())
+    num.append(val)
